@@ -1,6 +1,6 @@
 # Description: Honest Harry's Car Lot Sales program
 # Author: Sheri Evangelene
-# Date(s): Nov 11, 2025- Nov 15, 2025
+# Date(s): Nov 11, 2025- Nov 19, 2025
 
 
 # Define required libraries.
