@@ -73,6 +73,7 @@ while True:
      print("The phone number must be 10 digits.")
     else:
       break
+  print()
 
   while True:
     PlateNum=   input("Enter your license plate number (AAA999):                           ").upper()
@@ -84,10 +85,11 @@ while True:
       print("License plate must end with three numbers.")
     else:
       break
-
+  
   CarMake=      input("Enter the make of your vehicle:                                     ").title()
   CarModel=     input("Enter the model of your vehicle:                                    ").title()
   CarYear=      input("Enter the year of your vehicle:                                     ").title()
+  print()
   
   while True:
     try:
@@ -111,6 +113,7 @@ while True:
       break
     except:
       print("Enter a valid number")
+  print()    
 
   SalesName=   input("Enter the salesperson's name:                                       ").title()
 
