@@ -1,0 +1,78 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: aquamarine;
+}
+
+.mainbox {
+  width: 1000px;
+  background-color: white;
+  border: 3px solid gray;
+  margin: auto
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+/*  General classes for the page */
+.boldtext {
+  font-weight: 700;
+}
+
+.centertext {
+  text-align: center;
+}
+
+
+/* Styles for the header section */
+
+
+/* Styles for the nav section */
+
+
+/* Styles for the main / sections section */
+
+
+/* Styles for the footer section */
+
+/* Styles for the main / sections section */
+
+table{
+  width: 350px;
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+th,
+td {
+  width: 175px;
+  border: 1px solid;
+  border-collapse: collapse;
+  padding: 2px;
+}
+
+ td .lefttext {
+  text-align: left;
+}
+
+
+.righttext {
+  text-align: right;
+}
+
+
+td .centertext {
+  text-align: center;
+}
+
+td.orgtext{
+  background-color: rgb(246, 190, 6);
+  text-align: center;
+  font-weight: 700;
+}
+
